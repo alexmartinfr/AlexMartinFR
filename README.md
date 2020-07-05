@@ -1,16 +1,28 @@
-### Hi there 👋
+### Bonjour 👋
 
-<!--
-**AlexMartinFR/AlexMartinFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 I'm Alex, Holistic Devsigner. I live in France, in a green area called Le Berry.
 
-Here are some ideas to get you started:
+I'm passionate about approx. 1001 things, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash 
+
+
+
+          p
+      d e s i g n
+          y
+          c o d e
+          h
+        s o c i o l o g y
+          l
+          o
+    l i n g u i s t i c
+          y
+
+
+```
+
+
+- 🛠 currently contributing to [ Pest ](https://github.com/pestphp/pest) & [ Collision ](https://github.com/nunomaduro/collision)
+- 🔥 now working with the [ TALLStack ](https://tallstack.dev/)
+- 🐦 reach me on [ Twitter ](https://twitter.com/alexmartinfr)
