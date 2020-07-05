@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-🎨 I'm Alex, Holistic Devsigner. I live in France, in a green area called Le Berry.
+🎨 I'm Alex, Holistic Devsigner from France.
 
 I'm passionate about approx. 1001 things, including:
 
