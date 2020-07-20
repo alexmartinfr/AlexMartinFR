@@ -2,7 +2,7 @@
 
 I'm Alex, Holistic Devsigner 🎨 from France!
 
-|T|h|i|n|g|s||I||💜|:|
+|T|h|i|n|g|s||I||💚|:|
 | - | - | - | - | - | - | - | - | - | - | - |
 | | | |`P`| | | | | | |`W`|
 | |`D`|`E`|`S`|`I`|`G`|`N`| |📸| |`H`|
