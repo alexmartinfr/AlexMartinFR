@@ -1,6 +1,6 @@
 ### Bonjour 🙂
 
-🎨 I'm Alex, Holistic Devsigner from France!
+I'm Alex, Holistic Devsigner 🎨 from France!
 
 |T|h|i|n|g|s||I||💜|:|
 | - | - | - | - | - | - | - | - | - | - | - |
