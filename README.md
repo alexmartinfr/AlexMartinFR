@@ -1,26 +1,20 @@
-### Bonjour 👋
+### Bonjour 🙂
 
-🎨 I'm Alex, Holistic Devsigner from France.
+🎨 I'm Alex, Holistic Devsigner from France!
 
-I'm passionate about approx. 1001 things, including:
+|T|h|i|n|g|s||I||💜|:|
+| - | - | - | - | - | - | - | - | - | - | - |
+| | | |`P`| | | | | | |`W`|
+| |`D`|`E`|`S`|`I`|`G`|`N`| |📸| |`H`|
+| | | |`Y`| | | | | | |`I`|
+| |☕️| |`C`|`O`|`D`|`E`| |`F`| |`M`|
+| | | |`H`| | | | |`O`| |`S`|
+| | |`S`|`O`|`C`|`I`|`O`|`L`|`O`|`G`|`Y`|
+| | | |`L`| | | | |`D`| | |
+| | | |`O`| | | | | | | |
+|`L`|`I`|`N`|`G`|`U`|`I`|`S`|`T`|`I`|`C`| |
+| | | |`Y`| | | | | | | |
 
-```bash 
-
-
-
-          p
-      d e s i g n
-          y
-          c o d e
-          h
-        s o c i o l o g y
-          l
-          o
-    l i n g u i s t i c
-          y
-
-
-```
 
 
 - 🛠 currently contributing to [ Pest ](https://github.com/pestphp/pest) & [ Collision ](https://github.com/nunomaduro/collision)
