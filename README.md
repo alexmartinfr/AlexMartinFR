@@ -2,6 +2,8 @@
 
 I'm Alex, Holistic Devsigner 🎨
 
+Colors and words are the Runes of our modern world. I try my best to leverage their power to help people.
+
 |T|h|i|n|g|s||I||💚|:|
 | - | - | - | - | - | - | - | - | - | - | - |
 | | | |`P`| | | | | | |`W`|
@@ -16,9 +18,6 @@ I'm Alex, Holistic Devsigner 🎨
 |`I`| | |`Y`| | |`E`| | | | |
 |`S`| | | | | |`M`| | |📸| |
 |`M`| | | | | | | | | | |
-
-Design & development are my favorite creative outlets.
-I love helping people with colors & words!
 
 - 🛠 currently contributing to [ Pest ](https://github.com/pestphp/pest) & [ Collision ](https://github.com/nunomaduro/collision)
 - 🔥 now working with the [ TALLStack ](https://tallstack.dev/)
