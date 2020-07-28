@@ -2,7 +2,7 @@
 
 I'm Alex, Holistic Devsigner 🎨
 
-|T|h|i|n|g|s||`I`||💚|:|
+|T|h|i|n|g|s||I||💚|:|
 | - | - | - | - | - | - | - | - | - | - | - |
 | | | |`P`| | | | | | |`W`|
 | |`D`|`E`|`S`|`I`|`G`|`N`| | | |`H`|
@@ -17,7 +17,8 @@ I'm Alex, Holistic Devsigner 🎨
 |`S`| | | | | |`M`| | |📸| |
 |`M`| | | | | | | | | | |
 
-I love moving pixels around. Be it to write text, assemble an art piece
+Design & development are my favorite creative outlets.
+I love helping people with colors & words!
 
 - 🛠 currently contributing to [ Pest ](https://github.com/pestphp/pest) & [ Collision ](https://github.com/nunomaduro/collision)
 - 🔥 now working with the [ TALLStack ](https://tallstack.dev/)
