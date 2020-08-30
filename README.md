@@ -1,8 +1,6 @@
 ### Bonjour 🙂
 
-I'm Alex, Holistic Devsigner 🎨
-
-Colors and words are the runes of our Modern World. When wielded carefully, their power can help your creations shine through the noise!
+I'm Alex, Holistic Devsigner. Colors, shapes and words are the runes of our modern world. Arranged in certain ways, they can help your creations shine through the noise!
 
 |T|h|i|n|g|s||I||💚|:|
 | - | - | - | - | - | - | - | - | - | - | - |
@@ -19,6 +17,6 @@ Colors and words are the runes of our Modern World. When wielded carefully, thei
 |`S`| | | | | |`M`| | |[📸](https://www.instagram.com/alexmartinfr/)| |
 |`M`| | | | | | | | | | |
 
-- 🛠 Contributing to [ Pest ](https://github.com/pestphp/pest) & [ Collision ](https://github.com/nunomaduro/collision)
+- 🛠 Contributing to [ Pest ](https://github.com/pestphp/pest), [ Collision ](https://github.com/nunomaduro/collision) &  [ Takeout ](https://github.com/tightenco/takeout)
 - 🔥 Working with the [ TALLStack ](https://tallstack.dev/)
-- 🐦 Reach me on [ Twitter ](https://twitter.com/alexmartinfr)
+- 🐦 Reach me on [ Twitter ](https://twitter.com/alexmartinfr) for advices on improving your project's UX, design & copy 😉
