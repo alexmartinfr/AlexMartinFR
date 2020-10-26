@@ -2,7 +2,7 @@
 
 I'm Alex Martin, Holistic Devsigner.
 
-Reach me on [ Twitter ](https://twitter.com/alexmartinfr) for advice on improving your projects' UX, design & copy 😉
+Reach me on [ Twitter ](https://twitter.com/alexmartinfr) for advice on improving your projects' UX, design & copy 👋
 
 Until then, here's my favorite (totally made up) Einstein quote:
 « Colors, shapes and words are the runes of our modern world. Arranged in certain ways, they can help our creations shine through the noise! »
