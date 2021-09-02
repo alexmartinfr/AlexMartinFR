@@ -22,5 +22,5 @@ Until then, here's my favorite (totally made up) Einstein quote:
 |`S`| | | | | |`M`| | |[📸](https://www.instagram.com/alexmartinfr/)| |
 |`M`| | | | | | | | | | |
 
-- 🛠 Contributing to [ Pest ](https://github.com/pestphp/pest), [ Collision ](https://github.com/nunomaduro/collision) &  [ Takeout ](https://github.com/tightenco/takeout)
+- 🛠 Contributing to [ Pest ](https://github.com/pestphp/pest) & [ Collision ](https://github.com/nunomaduro/collision)
 - 🔥 Working with the [ TALLStack ](https://tallstack.dev/)
